@@ -36,12 +36,28 @@ public class PlayerMovement : MonoBehaviour
 
     private void SetRotation()
     {
-        Vector3 upAxis = new Vector3(0, 1, 0);
-        Vector3 mouseScreenPosition = Input.mousePosition;
-        mouseScreenPosition.z = transform.position.z;
-        Vector3 mouseWorldSpace = MainCam.ScreenToWorldPoint(mouseScreenPosition);
-        transform.LookAt(new Vector3(mouseWorldSpace.x, 0, mouseWorldSpace.z), upAxis);
-        transform.eulerAngles = new Vector3(0, transform.eulerAngles.y, 0);
+        //Vector3 upAxis = new Vector3(0, 1, 0);
+        //Vector3 mouseScreenPosition = Input.mousePosition;
+        //mouseScreenPosition.z = transform.position.z;
+        //Vector3 mouseWorldSpace = MainCam.ScreenToWorldPoint(mouseScreenPosition);
+ 
+
+        RaycastHit hit;
+        Ray ray = MainCam.ScreenPointToRay(Input.mousePosition);
+        int layerMask = 1 << 0;
+        layerMask = ~layerMask;
+
+        if (Physics.Raycast(ray, out hit, 10000.0f, layerMask))
+        {
+            var tag = hit.transform.gameObject.tag;
+            if (tag == "RayFloor")
+            {
+                Vector3 upAxis = new Vector3(0, 1, 0);
+                Vector3 pos = new Vector3(hit.point.x, hit.point.y, hit.point.z);
+                transform.LookAt(pos, upAxis);
+                transform.eulerAngles = new Vector3(0, transform.eulerAngles.y, 0);
+            }
+        }
     }
 
 
