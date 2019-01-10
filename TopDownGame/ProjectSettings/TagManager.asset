@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Enemy1
   - Enemy2
+  - RayFloor
+  - Wall
+  - PugCollider
+  - ArenaCollider
+  - Audience
+  - Floor
   layers:
   - Default
   - TransparentFX
