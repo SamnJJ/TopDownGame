@@ -13,9 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-10T18:31:36.528+01:00
+  lastUpdatedAtString: 2019-01-10T18:32:32.980+01:00
   initializedAtString: 2019-01-10T18:31:36.528+01:00
   log:
+  - commitID: 736cea2fee85272bb5928aabedd90a1fb6cd2cab
+    mergeA: 
+    mergeB: 
+    authorName: JordyV500
+    authorEmail: verbruggenjordy@hotmail.com
+    commitEmail: verbruggenjordy@hotmail.com
+    commitName: JordyV500
+    summary: github
+    description: github
+    timeString: 2019-01-10T18:32:02.000+01:00
+    commitTimeString: 2019-01-10T18:32:02.000+01:00
+    changes:
+    - path: TopDownGame\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: fbe09c9a863f7d7a13712e6d7142bc11dc9d2439
     mergeA: 
     mergeB: 
