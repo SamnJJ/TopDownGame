@@ -5362,6 +5362,16 @@ PrefabInstance:
       propertyPath: CamHeight.z
       value: -10
       objectReference: {fileID: 0}
+    - target: {fileID: 114937417146162446, guid: b41013e20f35c84419041f671d53d56d,
+        type: 3}
+      propertyPath: _anim
+      value: 
+      objectReference: {fileID: 1552882839}
+    - target: {fileID: 114937417146162446, guid: b41013e20f35c84419041f671d53d56d,
+        type: 3}
+      propertyPath: _moveSpeed
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 114352769144056400, guid: b41013e20f35c84419041f671d53d56d,
         type: 3}
       propertyPath: MainCam
@@ -5396,7 +5406,7 @@ PrefabInstance:
         type: 3}
       propertyPath: NormalModel
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1552882837}
     - target: {fileID: 1241387800769434, guid: b41013e20f35c84419041f671d53d56d, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -5571,6 +5581,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1416498752}
   m_CullTransparentMesh: 0
+--- !u!1 &1552882837 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5958480863961346984, guid: b41013e20f35c84419041f671d53d56d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1344831200}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1552882839 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5958480863970820588, guid: b41013e20f35c84419041f671d53d56d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1344831200}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1706228187
 GameObject:
   m_ObjectHideFlags: 0

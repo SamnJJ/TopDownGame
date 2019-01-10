@@ -19,6 +19,9 @@ public class PlayerMovement : MonoBehaviour
     public Camera MainCam = null;
     [SerializeField]
     private int _moveSpeed;
+    [SerializeField]
+    private Animator _anim = null;
+
     // Use this for initialization
     void Start()
     {
@@ -41,7 +44,7 @@ public class PlayerMovement : MonoBehaviour
         //Vector3 mouseScreenPosition = Input.mousePosition;
         //mouseScreenPosition.z = transform.position.z;
         //Vector3 mouseWorldSpace = MainCam.ScreenToWorldPoint(mouseScreenPosition);
- 
+
 
         RaycastHit hit;
         Ray ray = MainCam.ScreenPointToRay(Input.mousePosition);
@@ -66,6 +69,14 @@ public class PlayerMovement : MonoBehaviour
     {
         float inputHor = Input.GetAxis("Horizontal");
         float inputVer = Input.GetAxis("Vertical");
+        if (inputHor != 0 || inputVer != 0)
+        {
+            _anim.SetBool("IsMoving", true);
+        }
+        else
+        {
+            _anim.SetBool("IsMoving", false);
+        }
 
         Vector3 inputMove = (inputHor * _orientationR + inputVer * _orientationF).normalized;
         _currentMovementSpeed = inputMove;
