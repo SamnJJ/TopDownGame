@@ -81,29 +81,6 @@ public class PlayerMovement : MonoBehaviour
         Vector3 inputMove = (inputHor * _orientationR + inputVer * _orientationF).normalized;
         _currentMovementSpeed = inputMove;
 
-
-        //if (_controller.isGrounded)
-        //    _currentGravitationalForce = 0f;
-        //_currentGravitationalForce -= _gravity * Time.deltaTime;
-        //inputMove.y = _currentGravitationalForce;
-
-
-
-        //if ((Mathf.Abs(inputMove.x) < 0.01f && Mathf.Abs(inputMove.z) < 0.01f) &&
-        //    (Mathf.Abs(_currentMovementSpeed.x) > 0.01f ||
-        //    Mathf.Abs(_currentMovementSpeed.z) > 0.01f) &&
-        //    _friction < 1.0f && _friction > 0.0f)
-        //{
-        //    _currentMovementSpeed.x -= _currentMovementSpeed.x * _friction * Time.deltaTime;
-        //    _currentMovementSpeed.z -= _currentMovementSpeed.z * _friction * Time.deltaTime;
-        //    if (Mathf.Abs(_currentMovementSpeed.x) < 0.6f) _currentMovementSpeed.x = 0.0f;
-        //    if (Mathf.Abs(_currentMovementSpeed.z) < 0.6f) _currentMovementSpeed.z = 0.0f;
-        //}
-        //else if(_stats.GetType() == PlayerType.Ghost)
-        //    _currentMovementSpeed = _stats.WalkSpeed * inputMove;
-        //else
-        //    _currentMovementSpeed = _stats.EnemyWalkSpeed * inputMove;
-
         _controller.Move(_currentMovementSpeed * Time.deltaTime * _moveSpeed);
         MainCam.transform.position = transform.position + CamHeight;        
     }

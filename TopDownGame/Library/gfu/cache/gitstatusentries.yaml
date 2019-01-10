@@ -13,6 +13,120 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-10T16:14:34.197+01:00
-  initializedAtString: 2019-01-10T16:11:24.569+01:00
-  entries: []
+  lastUpdatedAtString: 2019-01-10T16:20:00.665+01:00
+  initializedAtString: 2019-01-10T16:16:41.713+01:00
+  entries:
+  - path: TopDownGame\.vs\TopDownGame\v15\.suo
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\.suo
+    projectPath: .vs\TopDownGame\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Assets\Scripts\Player\PlayerMovement.cs
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Scripts\Player\PlayerMovement.cs
+    projectPath: Assets\Scripts\Player\PlayerMovement.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\assetDatabase3
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\EditorInstance.json
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: TopDownGame\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+    projectPath: Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Library\StateCache\Hierarchy\4f2a38-mainStage.json
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\StateCache\Hierarchy\4f2a38-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\4f2a38-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: TopDownGame\Temp\UnityLockfile
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: TopDownGame\Temp\UnityTempFile-46cd96cd9cd562248b70b02494d55814
+    fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Temp\UnityTempFile-46cd96cd9cd562248b70b02494d55814
+    projectPath: Temp\UnityTempFile-46cd96cd9cd562248b70b02494d55814
+    originalPath: 
+    status: 1
+    staged: 0
