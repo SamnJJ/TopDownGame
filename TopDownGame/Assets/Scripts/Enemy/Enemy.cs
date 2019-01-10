@@ -20,9 +20,13 @@ public class Enemy : MonoBehaviour
     public bool IGNORE = false;
     public bool IsTutorial = false;
 
+
+    private float _wanderTimer = 0.0f;
     private float _timer = 0.0f;
 
-    public void BasicMove(float dt)
+    protected float _wanderTimeCount;
+    protected int _random = 3;
+    public virtual void BasicMove(float dt)
     {
         if (!Player || IsTutorial) return;
         if (IGNORE) return;
@@ -49,6 +53,47 @@ public class Enemy : MonoBehaviour
             }
         }
     }
+
+    protected virtual void Wander()
+    {
+        _wanderTimer += Time.deltaTime;
+        if (_wanderTimer > _wanderTimeCount)
+        {
+            switch (_random)
+            {
+                case 1:
+                    AGENT.isStopped = false;
+                    AGENT.SetDestination(GetRandomPoint(transform.position, Random.Range(1.0f, 20.0f)));
+                    break;
+                case 2:
+                    AGENT.isStopped = false;
+                    AGENT.SetDestination(Player.transform.position);
+                    break;
+                case 3:
+                    AGENT.isStopped = true;
+                    break;
+                default:
+                    Debug.Log("Error code: " + _random);
+                    break;
+            }
+            _wanderTimer = 0.0f;
+            _wanderTimeCount = Random.Range(1.5f, 3.5f);
+            _random = Random.Range(1, 4);
+            Debug.Log(_random);
+        }
+
+
+    }
+
+    private Vector3 GetRandomPoint(Vector3 origin, float distance)
+    {
+        Vector3 randomDirection = UnityEngine.Random.insideUnitSphere * distance;
+        randomDirection += origin;
+        NavMeshHit navHit;
+        NavMesh.SamplePosition(randomDirection, out navHit, distance,NavMesh.AllAreas);
+        return navHit.position;
+    }
+
 
     public virtual void Shoot() { }
 

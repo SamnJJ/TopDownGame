@@ -13,9 +13,1125 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-10T16:11:29.212+01:00
-  initializedAtString: 2019-01-10T16:11:29.212+01:00
+  lastUpdatedAtString: 2019-01-10T16:23:13.662+01:00
+  initializedAtString: 2019-01-10T16:23:13.662+01:00
   log:
+  - commitID: 887537fc2f900b09d56811083adf6ba6522afcd6
+    mergeA: 
+    mergeB: 
+    authorName: JordyV500
+    authorEmail: verbruggenjordy@hotmail.com
+    commitEmail: verbruggenjordy@hotmail.com
+    commitName: JordyV500
+    summary: commit that u bastards
+    description: commit that u bastards
+    timeString: 2019-01-10T16:22:59.000+01:00
+    commitTimeString: 2019-01-10T16:22:59.000+01:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Unity Projects\TopDownGame\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 76a9291e54049ef8ceaf0aa97d5e2dc91cc1ba20
+    mergeA: 
+    mergeB: 
+    authorName: JordyV500
+    authorEmail: verbruggenjordy@hotmail.com
+    commitEmail: verbruggenjordy@hotmail.com
+    commitName: JordyV500
+    summary: i dont know
+    description: i dont know
+    timeString: 2019-01-10T16:21:19.000+01:00
+    commitTimeString: 2019-01-10T16:21:19.000+01:00
+    changes:
+    - path: TopDownGame\.vs\TopDownGame\v15\.suo
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\.suo
+      projectPath: .vs\TopDownGame\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\TopDownGame\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Assets\Scripts\Player\PlayerMovement.cs
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Scripts\Player\PlayerMovement.cs
+      projectPath: Assets\Scripts\Player\PlayerMovement.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\CurrentLayout.dwlt
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\StateCache\SceneView\0a5174-mainStage.json
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\StateCache\SceneView\0a5174-mainStage.json
+      projectPath: Library\StateCache\SceneView\0a5174-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\assetDatabase3
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+      projectPath: Library\metadata\6a\6acd3cfd87f2cf147afc3b54a3464d86
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 33b44533f5b41f7c34f8b71defa17e9a6fba11a7
+    mergeA: 
+    mergeB: 
+    authorName: JordyV500
+    authorEmail: verbruggenjordy@hotmail.com
+    commitEmail: verbruggenjordy@hotmail.com
+    commitName: JordyV500
+    summary: commit github
+    description: commit github
+    timeString: 2019-01-10T16:14:39.000+01:00
+    commitTimeString: 2019-01-10T16:14:39.000+01:00
+    changes:
+    - path: TopDownGame\.vs\TopDownGame\v15\.suo
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\.vs\TopDownGame\v15\.suo
+      projectPath: .vs\TopDownGame\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Assets\Plugins.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\CurrentLayout.dwlt
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\assetDatabase3
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\gituser.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\30\305b6e818055a104982596b94deddcef
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\30\305b6e818055a104982596b94deddcef
+      projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\87\877ef3585573ce44eab899298be23158
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\87\877ef3585573ce44eab899298be23158
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: TopDownGame\TopDownGame.sln
+      fullPath: D:\Unity Projects\TopDownGame\TopDownGame\TopDownGame.sln
+      projectPath: TopDownGame.sln
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: b7e41485322c4fab672716bdc8b9dc1f5731f1bc
     mergeA: 
     mergeB: 

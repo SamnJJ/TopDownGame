@@ -79,7 +79,14 @@ public class PlayerClick : MonoBehaviour
             }
         }
     }
-
+    public void Damage(int dmg)
+    {
+        _currentEnemyHp -= dmg;
+        if (_currentEnemyHp <= 0)
+        {
+            SetPlayerType(PlayerType.Ghost);
+        }
+    }
     private void ReloadGame()
     {
         SceneManager.LoadScene("Load");

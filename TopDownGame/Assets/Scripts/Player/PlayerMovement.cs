@@ -6,12 +6,10 @@ public class PlayerMovement : MonoBehaviour
 {
     private Vector3 _currentMovementSpeed = Vector3.zero;
     private float _currentGravitationalForce;
-    private float _gravity = 9.81f;
-    private float _friction = 1.0f;
     private CharacterController _controller = null;
     private Vector3 _orientationF = Vector3.zero;
     private Vector3 _orientationR = Vector3.zero;
-    private PlayerClick _stats = null;
+   // private PlayerClick _stats = null;
 
     [SerializeField]
     public Vector3 CamHeight = Vector3.zero;
@@ -28,7 +26,7 @@ public class PlayerMovement : MonoBehaviour
         _orientationF = transform.forward;
         _orientationR = transform.right;
         _controller = GetComponent<CharacterController>();
-        _stats = GetComponent<PlayerClick>();
+        //_stats = GetComponent<PlayerClick>();
     }
 
     // Update is called once per frame
