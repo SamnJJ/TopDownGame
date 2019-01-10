@@ -22,7 +22,7 @@ public class Enemy : MonoBehaviour
 
     private float _timer = 0.0f;
 
-    public void BasicMove(float dt)
+    public virtual void BasicMove(float dt)
     {
         if (!Player || IsTutorial) return;
         if (IGNORE) return;

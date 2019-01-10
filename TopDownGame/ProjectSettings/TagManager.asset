@@ -12,6 +12,7 @@ TagManager:
   - ArenaCollider
   - Audience
   - Floor
+  - Enemy3
   layers:
   - Default
   - TransparentFX
